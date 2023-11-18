@@ -1,3 +1,14 @@
-## Linked-DSL DESIGN
+# Linked-DSL DESIGN
 
- 
+## 设计目标
+
+* 设计一套通用的dsl语言来完成如下能力
+  * 描述业务模型和行为，并实现从业务模型到领域模型的转换
+  * 实现业务的编排能力
+  * 【小功能】完成接口的merge和改写操作
+
+## 可能的user stories
+
+```text
+
+```
