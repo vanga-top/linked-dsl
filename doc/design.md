@@ -25,8 +25,14 @@
 ### 业务编排
 
 ```text
-
-
+step 1 
+    $MOV($A,"location")
+step 2
+    $WAIT(100,SECOND)
+for
+    step 3
+        $JOB(1111L)
+end for    
 ```
 
 ## 一些参考文档
